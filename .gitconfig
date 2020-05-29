@@ -1,0 +1,10 @@
+[user]
+	name = hcb1100
+	email = h.cb1100y.sr400@gmail.com
+[color]
+	ui = true
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	ci = commit

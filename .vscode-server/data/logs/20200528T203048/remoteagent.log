@@ -1,0 +1,33 @@
+[2020-05-28 20:30:49.146] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-05-28 20:30:49.146] [remoteagent] [info] Extension host agent started.
+[2020-05-28 20:30:49.340] [remoteagent] [info] [::ffff:127.0.0.1][8d35e1f1][ExtensionHostConnection] New connection established.
+[2020-05-28 20:30:49.345] [remoteagent] [info] [::ffff:127.0.0.1][546b72e5][ManagementConnection] New connection established.
+[2020-05-28 20:30:50.144] [remoteagent] [info] [::ffff:127.0.0.1][8d35e1f1][ExtensionHostConnection] <158> Launched Extension Host Process.
+[2020-05-28 20:30:53.046] [remoteagent] [info] [::ffff:127.0.0.1][546b72e5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-05-28 20:30:54.146] [remoteagent] [info] [::ffff:127.0.0.1][8d35e1f1][ExtensionHostConnection] <158> Extension Host Process exited with code: 0, signal: null.
+[2020-05-28 20:30:56.169] [remoteagent] [info] [::ffff:127.0.0.1][3556f753][ManagementConnection] New connection established.
+[2020-05-28 20:30:56.175] [remoteagent] [info] [::ffff:127.0.0.1][3bb5e9df][ExtensionHostConnection] New connection established.
+[2020-05-28 20:30:56.221] [remoteagent] [info] [::ffff:127.0.0.1][3bb5e9df][ExtensionHostConnection] <175> Launched Extension Host Process.
+[2020-05-29 13:12:58.133] [remoteagent] [info] [::ffff:127.0.0.1][3556f753][ManagementConnection] The client has reconnected.
+[2020-05-29 13:12:58.137] [remoteagent] [info] [::ffff:127.0.0.1][3bb5e9df][ExtensionHostConnection] The client has reconnected.
+[2020-05-29 16:45:05.758] [remoteagent] [info] [::ffff:127.0.0.1][f580055b][ManagementConnection] New connection established.
+[2020-05-29 16:45:05.759] [remoteagent] [info] [::ffff:127.0.0.1][f73d3b91][ExtensionHostConnection] New connection established.
+[2020-05-29 16:45:05.789] [remoteagent] [info] [::ffff:127.0.0.1][f73d3b91][ExtensionHostConnection] <1589> Launched Extension Host Process.
+[2020-05-29 16:45:16.789] [remoteagent] [info] [::ffff:127.0.0.1][f580055b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-05-29 16:45:17.930] [remoteagent] [info] [::ffff:127.0.0.1][f73d3b91][ExtensionHostConnection] <1589> Extension Host Process exited with code: 0, signal: null.
+[2020-05-29 16:45:24.875] [remoteagent] [info] [::ffff:127.0.0.1][041071a2][ManagementConnection] New connection established.
+[2020-05-29 16:45:24.877] [remoteagent] [info] [::ffff:127.0.0.1][02b587f7][ExtensionHostConnection] New connection established.
+[2020-05-29 16:45:24.897] [remoteagent] [info] [::ffff:127.0.0.1][02b587f7][ExtensionHostConnection] <1606> Launched Extension Host Process.
+[2020-05-29 16:52:31.106] [remoteagent] [info] [::ffff:127.0.0.1][041071a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-05-29 16:52:32.127] [remoteagent] [info] [::ffff:127.0.0.1][02b587f7][ExtensionHostConnection] <1606> Extension Host Process exited with code: 0, signal: null.
+[2020-05-29 16:52:33.956] [remoteagent] [info] [::ffff:127.0.0.1][3556f753][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-05-29 16:52:35.081] [remoteagent] [info] [::ffff:127.0.0.1][3bb5e9df][ExtensionHostConnection] <175> Extension Host Process exited with code: 0, signal: null.

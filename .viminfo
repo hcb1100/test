@@ -1,0 +1,288 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1590737934,,"wq"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+
+# ファイルマーク:
+'0  2  5  ~/myweb2/index.html
+|4,48,2,5,1590737934,"~/myweb2/index.html"
+'1  4  6  ~/myweb/index.html
+|4,49,4,6,1590735540,"~/myweb/index.html"
+'2  2  6  ~/myweb/index.html
+|4,50,2,6,1590735295,"~/myweb/index.html"
+'3  2  6  ~/myweb/index.html
+|4,51,2,6,1590735295,"~/myweb/index.html"
+'4  1  7  ~/myweb/index.html
+|4,52,1,7,1590735085,"~/myweb/index.html"
+'5  1  7  ~/myweb/index.html
+|4,53,1,7,1590735085,"~/myweb/index.html"
+'6  1  7  ~/myweb/index.html
+|4,54,1,7,1590735085,"~/myweb/index.html"
+'7  1  7  ~/myweb/index.html
+|4,55,1,7,1590735085,"~/myweb/index.html"
+'8  1  9  ~/myweb/index.html
+|4,56,1,9,1590735004,"~/myweb/index.html"
+'9  1  9  ~/myweb/index.html
+|4,57,1,9,1590735004,"~/myweb/index.html"
+
+# ジャンプリスト (新しいものが先):
+-'  2  5  ~/myweb2/index.html
+|4,39,2,5,1590737934,"~/myweb2/index.html"
+-'  1  0  ~/myweb2/index.html
+|4,39,1,0,1590737901,"~/myweb2/index.html"
+-'  4  6  ~/myweb/index.html
+|4,39,4,6,1590735540,"~/myweb/index.html"
+-'  4  6  ~/myweb/index.html
+|4,39,4,6,1590735540,"~/myweb/index.html"
+-'  2  6  ~/myweb/index.html
+|4,39,2,6,1590735492,"~/myweb/index.html"
+-'  2  6  ~/myweb/index.html
+|4,39,2,6,1590735492,"~/myweb/index.html"
+-'  2  6  ~/myweb/index.html
+|4,39,2,6,1590735295,"~/myweb/index.html"
+-'  2  6  ~/myweb/index.html
+|4,39,2,6,1590735295,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735197,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735197,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735197,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735197,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735085,"~/myweb/index.html"
+-'  1  7  ~/myweb/index.html
+|4,39,1,7,1590735085,"~/myweb/index.html"
+-'  1  9  ~/myweb/index.html
+|4,39,1,9,1590735004,"~/myweb/index.html"
+-'  1  9  ~/myweb/index.html
+|4,39,1,9,1590735004,"~/myweb/index.html"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  3  0  ~/myweb/myscript.js
+|4,39,3,0,1590734258,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  1  0  ~/myweb/myscript.js
+|4,39,1,0,1590734211,"~/myweb/myscript.js"
+-'  2  0  ~/myweb/index.html
+|4,39,2,0,1590733858,"~/myweb/index.html"
+-'  2  0  ~/myweb/index.html
+|4,39,2,0,1590733858,"~/myweb/index.html"
+-'  2  0  ~/myweb/index.html
+|4,39,2,0,1590733858,"~/myweb/index.html"
+-'  2  0  ~/myweb/index.html
+|4,39,2,0,1590733858,"~/myweb/index.html"
+-'  1  0  ~/myweb/index.html
+|4,39,1,0,1590733826,"~/myweb/index.html"
+-'  1  0  ~/myweb/index.html
+|4,39,1,0,1590733826,"~/myweb/index.html"
+-'  1  0  ~/myweb/index.html
+|4,39,1,0,1590733826,"~/myweb/index.html"
+-'  1  0  ~/myweb/index.html
+|4,39,1,0,1590733826,"~/myweb/index.html"
+-'  5  4  ~/myweb/index.html
+|4,39,5,4,1590733660,"~/myweb/index.html"
+-'  8  4  ~/myweb/index.html
+|4,39,8,4,1590733660,"~/myweb/index.html"
+-'  7  4  ~/myweb/index.html
+|4,39,7,4,1590733660,"~/myweb/index.html"
+-'  11  4  ~/myweb/index.html
+|4,39,11,4,1590733660,"~/myweb/index.html"
+-'  5  4  ~/myweb/index.html
+|4,39,5,4,1590733660,"~/myweb/index.html"
+-'  4  4  ~/myweb/index.html
+|4,39,4,4,1590733660,"~/myweb/index.html"
+-'  8  4  ~/myweb/index.html
+|4,39,8,4,1590733660,"~/myweb/index.html"
+-'  4  4  ~/myweb/index.html
+|4,39,4,4,1590733660,"~/myweb/index.html"
+-'  8  4  ~/myweb/index.html
+|4,39,8,4,1590733660,"~/myweb/index.html"
+-'  7  4  ~/myweb/index.html
+|4,39,7,4,1590733660,"~/myweb/index.html"
+-'  11  4  ~/myweb/index.html
+|4,39,11,4,1590733660,"~/myweb/index.html"
+-'  11  4  ~/myweb/index.html
+|4,39,11,4,1590733660,"~/myweb/index.html"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/myweb2/index.html
+	*	1590737931	0
+	"	2	5
+	^	2	7
+	.	2	6
+	+	1	0
+	+	2	0
+	+	1	6
+	+	2	6
+
+> ~/myweb/index.html
+	*	1590735524	0
+	"	4	6
+	^	4	7
+	.	4	6
+	+	1	6
+	+	1	9
+	+	1	15
+	+	1	12
+	+	1	5
+	+	1	6
+	+	1	11
+	+	2	19
+	+	1	7
+	+	1	9
+	+	1	0
+	+	2	8
+	+	3	0
+	+	4	6
+
+> ~/myweb/myscript.js
+	*	1590734254	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	2	0
