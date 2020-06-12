@@ -360,3 +360,400 @@ cd ..
 cd myweb
 git pull origin master
 git log
+ls
+cd worl
+cd work
+ls
+rm -d work
+cd ..
+rm -d work
+rm -d test
+rm test
+ls
+cat ourweb.git/
+cd ourweb.git/
+ls
+git -l
+cd ..
+github
+cd
+ls
+rmdir ourweb.git/
+git remote add origin https://github.com/hcb1100/test.git
+git push -u origin master
+echo "# test" >> README.md
+git status
+git init
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+git add README.md
+git log
+gti remote add origin https://github.com/hcb1100/test.git
+git remote add origin https://github.com/hcb1100/test.git
+git push -u origin master
+git log
+ls
+cd README.md
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "try test"
+git status
+git add
+git add .
+git status
+git log
+ls
+cd myweb
+curl -L git.io/nodebrew | perl - setup
+pwd
+cd ..
+l
+ls
+ls.
+vim
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+source ~/.profile
+echo 'export PATH=$HOME/.nodebrew/current/bin:$PATH' >> ~/.profile
+cat .profile
+nodebrew
+nodebrew install-binary v12.18.0
+cat .nodebrew
+cat nodebrew
+node --version
+sudo apt install nodejs
+node --version
+npm -v
+nodebrew install-binary latest
+sudo apt install npm
+npm -v
+nodebrew -v
+nodebrew ls
+curl -L git.io/nodebrew | perl - setup
+nodebrew ls-remote
+nodebrew install-binary v12.16.0
+nodebrew ls
+nodebrew use
+sudo chown -R 'username' /private/tmp/
+sudo chown -R 'tel' /private/tmp/
+sudo chown -R "tel" /private/tmp/
+brew install nodebrew
+nodebrew -help
+node -v
+nodebrew ls-all
+nodebrew install-binary v12.16.0
+nodebrew use v12.16.0
+node -v
+node
+node use v12.16.0
+node --version
+node ls-all
+node ls
+node -v
+nodist
+nvm ls-remote
+node ls-remote
+node -l
+ll
+ll public
+pwd
+vue create test
+vim package.json
+ls
+git
+ls node_modules
+ls | grep "vue"
+ls node_modules | grep "vue"
+cat README.md
+nodebrew -v
+node -v
+nodebrew install v12.16.0
+nodebrew -v
+nodebrew use v12.16.0
+curl -L git.io/nodebrew | perl - setup
+vi ~/.bashrc
+nodebrew help
+source ~/.bashrc
+npm -v
+node -v
+$ nodebrew use v12.26.0
+nodebrew -v
+nodebrew list
+npm cache clean
+nodebrew -v
+node-v
+node -v
+npm -v
+vi ~/.bashrc
+nodebrew help
+vi ~/.bashrc
+echo 'export PATH=$PATH:/Users/tel/.nodebrew/current/bin' >> ~/.bash_profile
+source ~/.bash_profile
+nodebrew -v
+nodebrew
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+nodebrew -v
+nodebrew use v12.16.0
+nodebrew -v
+nodebrew install v12.16.0
+nodebrew list
+nodebrew -v
+nodebrew use
+node
+node -v
+npm -v
+curl -o- -L https://yarnpkg.com/install.sh | bash
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+sudo apt update
+apt list --upgradable
+sudo apt install yarn
+yarn --version
+npm install -g@vue/cli
+vue --version
+yarn global add @vue/cli
+npm install -g @vue/cli
+vue --version
+yarn global add @vue/cli@4.2.2
+yarn global ermove vue-scli
+yarn global remove vue-cli
+yarn global add create-react-app --prefix /usr/local
+create-react-app
+yarn global add create-react-app
+vue --version
+yarn global upgrade --latest @vue/cli
+yarn global add @uve/cli@4.2.2
+yarn
+yarn add
+yarn global add create-react-app --prefix /usr/local
+yarn global add create-react-app --pre /usr/local
+yarn global add nodemon --pre /usr/local
+yarn global bin
+pwd
+ls
+yarn global add @vue/cli@4.2.2
+global
+npm install -g @vue/cli@4.2.2
+sudo apt install global
+yarn global add @vue/cli@4.2.2
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+vue create my-project
+vue -v
+node -v
+nodebrew -v
+nodebrew ls
+node -v
+nodebrew -v
+nodebrew ls
+ls
+nodebrew
+nodebrew ls
+node
+nodebrew
+nodebrew ls-all
+$ curl -L git.io/nodebrew | perl - setup
+curl -L git.io/nodebrew | perl - setup
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+nodebrew
+nodebrew ls-all
+nodebrew -v
+nodebrew use v12.16.0
+nodebrew -v
+nodebrew
+node -v
+node use
+wpd
+pwd
+ls
+ndoe
+node
+npm
+npm -v
+vue create sample-vue-project
+npm uninstall -g @vue/cli
+yarn global add @vue/cli
+yarn  add @vue/cli
+yarn @vue/cli
+yarn @vue/cli@v4.2.2
+yarn
+yarn -v
+yarn --version
+sudo apt update
+yarn --version
+sudo apt install yarn
+sudo apt remove cmdtest
+sudo apt remove yarn
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt-get update && sudo apt-get install yarn
+yarn --version
+yarn global add @vue/cli@4.2.2
+vue create sample-vue-project
+node -v
+npm -v
+yarn -v
+yarn/cli -v
+yarn/cli
+@yarn/cli
+sudo apt update
+vue create sample-vue-project
+vue
+vue -v
+vue/cli
+@vue/cli -v
+vue --version
+ls
+cd sample-vue-project/
+cd ..
+rmdir sample-vue-project/
+cd sample-vue-project/
+ls
+ls-al
+sl-all
+ll
+cat
+cat sam
+cd..
+cd ..
+vue create test
+vue create vue-project
+sudo apt autoremove
+vue create vue-project
+pwd
+cd ..
+ls
+ll
+ll .
+cd ..
+cd /
+pwd
+cd home
+cd ~
+ls
+cd ./
+rm -r sample-vue-project/
+vue create vue-project
+cd ..
+cd ./
+cd ,
+cd .\\
+cd .//
+cd ~
+npm -v
+node -v
+nodebrew -v
+node ls
+vue create vue-project
+vue create sample-vue-project
+create
+vue -v
+vue --v
+vue --version
+vue create hello-world
+vue --version
+no
+npm -v
+yarn -v
+node -v
+nodebrew -v
+node ls
+node -v ls
+nodebrew use v12.16.0
+node 
+yarn global install @vue/cli@v4.2.2
+yarn global add @vue/cli@v4.2.2
+nodebrew install v12.16.0
+curl -L git.io/nodebrew | perl - setup
+noedbrew -v
+nodebrew install v12.16.0
+nodebrew help
+vi ~/.bashrc
+nodebrew help
+node -v
+nodebrew
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+nodebrew help
+vi ~/.bashrc
+nodebrew install v12.16.0
+nodebrew -v
+nodebrew use v12.16.0
+vue create hello-world
+yarn global add @vue/cli@v4.2.2
+vue -v
+nodebrew-v
+nodebrew -v
+nodebrew
+nodebrew use
+vue --version
+npm install -g @vue/cli
+vue --version
+vue create hello-world
+cd hello-world
+src/App.vue
+yarn build
+app.vue
+cat hello-world
+yarn serve
+nodebrew -v
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+nodebrew -v
+source ~/.bashrc
+ls all
+ls-all
+ls -a
+cd .bashrc
+cat bashrc
+vi .bashrc
+source ~/.bashrc
+vi .bash_profile
+source ~/.bashrc
+vi .bashrc
+source ~/.bashrc
+nopdebrew -v
+vi bashrc
+vi .bashrc
+vi ~/.bashrc
+source ~/bashrc
+nodebrew -v
+node -v
+yarn
+npm -v
+yarn -v
+vi ~/.bash_profile
+nodebrew -v
+vi ~/.bashrc
+vi ~/.bash_profile
+node
+cd hello-world/
+yarn serve
+vi ~/.bash-completion
+cat bash-completion
+ls -a
+nodebrew -v
+node --v
+node -v
+exit
+nodebrew --version
+node --version
+vue -version
+vue --version
+vue -V
+man ls
+pwd
+vue --version
+vue create test
+cd test
+yarn serve
+ll
+pwd
+cat README.md 
+wpd
+pwd
+ll
+cd ..

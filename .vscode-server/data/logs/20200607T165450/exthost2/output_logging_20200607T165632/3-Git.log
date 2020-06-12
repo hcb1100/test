@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/tel
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :sample-vue-project/package.json
+> git ls-files --stage -- /home/tel/sample-vue-project/package.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

@@ -11,8 +11,16 @@
 # hlsearch on (H) or off (h):
 ~h
 # コマンドライン 項目の履歴 (新しいものから古いものへ):
+:x
+|2,0,1591709330,,"x"
 :wq
-|2,0,1590737934,,"wq"
+|2,0,1591699772,,"wq"
+:w
+|2,0,1591699675,,"w"
+:!
+|2,0,1591699665,,"!"
+:q
+|2,0,1591699658,,"q"
 
 # 検索文字列 項目の履歴 (新しいものから古いものへ):
 
@@ -23,232 +31,282 @@
 # デバッグ行 項目の履歴 (新しいものから古いものへ):
 
 # レジスタ:
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1591273850,""
+"w	CHAR	0
+	�kb
+|3,0,32,0,1,0,1591273842,"�kb"
 
 # ファイルマーク:
-'0  2  5  ~/myweb2/index.html
-|4,48,2,5,1590737934,"~/myweb2/index.html"
-'1  4  6  ~/myweb/index.html
-|4,49,4,6,1590735540,"~/myweb/index.html"
-'2  2  6  ~/myweb/index.html
-|4,50,2,6,1590735295,"~/myweb/index.html"
-'3  2  6  ~/myweb/index.html
-|4,51,2,6,1590735295,"~/myweb/index.html"
-'4  1  7  ~/myweb/index.html
-|4,52,1,7,1590735085,"~/myweb/index.html"
-'5  1  7  ~/myweb/index.html
-|4,53,1,7,1590735085,"~/myweb/index.html"
-'6  1  7  ~/myweb/index.html
-|4,54,1,7,1590735085,"~/myweb/index.html"
-'7  1  7  ~/myweb/index.html
-|4,55,1,7,1590735085,"~/myweb/index.html"
-'8  1  9  ~/myweb/index.html
-|4,56,1,9,1590735004,"~/myweb/index.html"
-'9  1  9  ~/myweb/index.html
-|4,57,1,9,1590735004,"~/myweb/index.html"
+'0  1  0  ~/.bash-completion
+|4,48,1,0,1591709330,"~/.bash-completion"
+'1  1  0  ~/.bash_profile
+|4,49,1,0,1591699772,"~/.bash_profile"
+'2  120  0  ~/.bashrc
+|4,50,120,0,1591699749,"~/.bashrc"
+'3  1  0  ~/.bash_profile
+|4,51,1,0,1591699684,"~/.bash_profile"
+'4  120  0  ~/.bashrc
+|4,52,120,0,1591699280,"~/.bashrc"
+'5  118  0  ~/.bashrc
+|4,53,118,0,1591699218,"~/.bashrc"
+'6  118  0  ~/.bashrc
+|4,54,118,0,1591699218,"~/.bashrc"
+'7  118  0  ~/.bashrc
+|4,55,118,0,1591699218,"~/.bashrc"
+'8  118  0  ~/.bashrc
+|4,56,118,0,1591699218,"~/.bashrc"
+'9  1  0  ~/bashrc
+|4,57,1,0,1591699126,"~/bashrc"
 
 # ジャンプリスト (新しいものが先):
--'  2  5  ~/myweb2/index.html
-|4,39,2,5,1590737934,"~/myweb2/index.html"
--'  1  0  ~/myweb2/index.html
-|4,39,1,0,1590737901,"~/myweb2/index.html"
--'  4  6  ~/myweb/index.html
-|4,39,4,6,1590735540,"~/myweb/index.html"
--'  4  6  ~/myweb/index.html
-|4,39,4,6,1590735540,"~/myweb/index.html"
--'  2  6  ~/myweb/index.html
-|4,39,2,6,1590735492,"~/myweb/index.html"
--'  2  6  ~/myweb/index.html
-|4,39,2,6,1590735492,"~/myweb/index.html"
--'  2  6  ~/myweb/index.html
-|4,39,2,6,1590735295,"~/myweb/index.html"
--'  2  6  ~/myweb/index.html
-|4,39,2,6,1590735295,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735197,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735197,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735197,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735197,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735085,"~/myweb/index.html"
--'  1  7  ~/myweb/index.html
-|4,39,1,7,1590735085,"~/myweb/index.html"
--'  1  9  ~/myweb/index.html
-|4,39,1,9,1590735004,"~/myweb/index.html"
--'  1  9  ~/myweb/index.html
-|4,39,1,9,1590735004,"~/myweb/index.html"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  3  0  ~/myweb/myscript.js
-|4,39,3,0,1590734258,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  1  0  ~/myweb/myscript.js
-|4,39,1,0,1590734211,"~/myweb/myscript.js"
--'  2  0  ~/myweb/index.html
-|4,39,2,0,1590733858,"~/myweb/index.html"
--'  2  0  ~/myweb/index.html
-|4,39,2,0,1590733858,"~/myweb/index.html"
--'  2  0  ~/myweb/index.html
-|4,39,2,0,1590733858,"~/myweb/index.html"
--'  2  0  ~/myweb/index.html
-|4,39,2,0,1590733858,"~/myweb/index.html"
--'  1  0  ~/myweb/index.html
-|4,39,1,0,1590733826,"~/myweb/index.html"
--'  1  0  ~/myweb/index.html
-|4,39,1,0,1590733826,"~/myweb/index.html"
--'  1  0  ~/myweb/index.html
-|4,39,1,0,1590733826,"~/myweb/index.html"
--'  1  0  ~/myweb/index.html
-|4,39,1,0,1590733826,"~/myweb/index.html"
--'  5  4  ~/myweb/index.html
-|4,39,5,4,1590733660,"~/myweb/index.html"
--'  8  4  ~/myweb/index.html
-|4,39,8,4,1590733660,"~/myweb/index.html"
--'  7  4  ~/myweb/index.html
-|4,39,7,4,1590733660,"~/myweb/index.html"
--'  11  4  ~/myweb/index.html
-|4,39,11,4,1590733660,"~/myweb/index.html"
--'  5  4  ~/myweb/index.html
-|4,39,5,4,1590733660,"~/myweb/index.html"
--'  4  4  ~/myweb/index.html
-|4,39,4,4,1590733660,"~/myweb/index.html"
--'  8  4  ~/myweb/index.html
-|4,39,8,4,1590733660,"~/myweb/index.html"
--'  4  4  ~/myweb/index.html
-|4,39,4,4,1590733660,"~/myweb/index.html"
--'  8  4  ~/myweb/index.html
-|4,39,8,4,1590733660,"~/myweb/index.html"
--'  7  4  ~/myweb/index.html
-|4,39,7,4,1590733660,"~/myweb/index.html"
--'  11  4  ~/myweb/index.html
-|4,39,11,4,1590733660,"~/myweb/index.html"
--'  11  4  ~/myweb/index.html
-|4,39,11,4,1590733660,"~/myweb/index.html"
+-'  1  0  ~/.bash-completion
+|4,39,1,0,1591709330,"~/.bash-completion"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699772,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699772,"~/.bash_profile"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699749,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699749,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699749,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699749,"~/.bashrc"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699684,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699684,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699684,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1591699684,"~/.bash_profile"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  120  0  ~/.bashrc
+|4,39,120,0,1591699280,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699272,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1591699218,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  119  0  ~/.bashrc
+|4,39,119,0,1591699147,"~/.bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
+-'  1  0  ~/bashrc
+|4,39,1,0,1591699126,"~/bashrc"
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.bash-completion
+	*	1591709324	0
+	"	1	0
+
+> ~/.bash_profile
+	*	1591699771	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	78
+	+	1	0
+	s	1	0
+
+> ~/.bashrc
+	*	1591699748	0
+	"	120	0
+	^	120	0
+	.	119	45
+	+	117	46
+	+	113	5
+	+	117	2
+	+	117	47
+	+	117	2
+	+	117	47
+	+	117	155
+	+	117	156
+	+	119	0
+	+	117	2
+	+	119	45
+
+> ~/bashrc
+	*	1591699122	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	2	0
+
+> ~/package.json
+	*	1591273851	0
+	"	1	67
+	^	1	68
+	.	1	67
+	+	1	67
 
 > ~/myweb2/index.html
 	*	1590737931	0

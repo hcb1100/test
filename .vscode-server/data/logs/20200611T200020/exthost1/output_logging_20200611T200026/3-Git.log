@@ -1,0 +1,108 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/tel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :test/src/App.vue
+> git ls-files --stage -- /home/tel/test/src/App.vue
+> git check-ignore -v -z --stdin
+> git show :test/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/test/src/components/HelloWorld.vue
+> git show :test/src/App.vue
+> git ls-files --stage -- /home/tel/test/src/App.vue
+> git show :test/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/test/src/components/HelloWorld.vue
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show HEAD:.bash_profile
+> git show :.bash_profile
+> git ls-tree -l HEAD -- /home/tel/.bash_profile
+> git ls-files --stage -- /home/tel/.bash_profile
+> git cat-file -s b7553ca18304feed751040b83eceb649a8cac343
+> git check-ignore -v -z --stdin
+> git show HEAD:.bashrc
+> git show :.bashrc
+> git ls-tree -l HEAD -- /home/tel/.bashrc
+> git ls-files --stage -- /home/tel/.bashrc
+> git cat-file -s 78eb558ac462f60e5600e125cf2a2bae55cbe9c1
+> git check-ignore -v -z --stdin
+> git show HEAD:.bash_profile
+> git show :.bash_profile
+> git ls-tree -l HEAD -- /home/tel/.bash_profile
+> git ls-files --stage -- /home/tel/.bash_profile
+> git cat-file -s b7553ca18304feed751040b83eceb649a8cac343
+> git show HEAD:.bashrc
+> git show :.bashrc
+> git ls-tree -l HEAD -- /home/tel/.bashrc
+> git ls-files --stage -- /home/tel/.bashrc
+> git cat-file -s 78eb558ac462f60e5600e125cf2a2bae55cbe9c1
+> git show HEAD:.bash_history
+> git show :.bash_history
+> git ls-tree -l HEAD -- /home/tel/.bash_history
+> git ls-files --stage -- /home/tel/.bash_history
+> git cat-file -s 723665d67eedb8ed92954b82a67d15542d2b6c9a
+> git check-ignore -v -z --stdin
+> git show HEAD:.node_repl_history
+> git show :.node_repl_history
+> git ls-tree -l HEAD -- /home/tel/.node_repl_history
+> git ls-files --stage -- /home/tel/.node_repl_history
+> git cat-file -s 1471d238c676171998d96e713c8dfb1e93854a13
+> git check-ignore -v -z --stdin
+> git show HEAD:.config/configstore/nodemon.json
+> git show :.config/configstore/nodemon.json
+> git ls-tree -l HEAD -- /home/tel/.config/configstore/nodemon.json
+> git ls-files --stage -- /home/tel/.config/configstore/nodemon.json
+> git cat-file -s 7773ae1ba0641687b3bf7993c2cf80b4a4c66924
+> git check-ignore -v -z --stdin
+> git show HEAD:.config/configstore/update-notifier-npm.json
+> git show :.config/configstore/update-notifier-npm.json
+> git ls-tree -l HEAD -- /home/tel/.config/configstore/update-notifier-npm.json
+> git ls-files --stage -- /home/tel/.config/configstore/update-notifier-npm.json
+> git cat-file -s ab7173eff9c2bd0066216643dbb7102fda5debb5
+> git check-ignore -v -z --stdin
+> git show HEAD:.gnupg/pubring.kbx
+> git show :.gnupg/pubring.kbx
+> git ls-tree -l HEAD -- /home/tel/.gnupg/pubring.kbx
+> git ls-files --stage -- /home/tel/.gnupg/pubring.kbx
+> git cat-file -s 98573f48daed3a8ede5475094028f46d429efd49
+> git ls-files --stage -- /home/tel/.gnupg/pubring.kbx
+> git cat-file -s 98573f48daed3a8ede5475094028f46d429efd49
+> git ls-tree -l HEAD -- /home/tel/.gnupg/pubring.kbx
+> git ls-files --stage -- /home/tel/.gnupg/pubring.kbx
+> git cat-file -s 98573f48daed3a8ede5475094028f46d429efd49
+> git check-ignore -v -z --stdin
+> git show :test/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/test/src/components/HelloWorld.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.nodebrew/node/v12.16.0/include/node/js_native_api.h
+> git show :.nodebrew/node/v12.16.0/include/node/js_native_api.h
+> git ls-tree -l HEAD -- /home/tel/.nodebrew/node/v12.16.0/include/node/js_native_api.h
+> git ls-files --stage -- /home/tel/.nodebrew/node/v12.16.0/include/node/js_native_api.h
+> git cat-file -s 150103348e4dc6742ea5e89edc7aab8dde3401e3
+> git check-ignore -v -z --stdin
+> git show :test/src/App.vue
+> git ls-files --stage -- /home/tel/test/src/App.vue
+> git show :test/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/test/src/components/HelloWorld.vue

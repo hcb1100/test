@@ -1,0 +1,24 @@
+[2020-06-11 20:00:21.130] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-06-11 20:00:21.130] [remoteagent] [info] Extension host agent started.
+[2020-06-11 20:00:21.282] [remoteagent] [info] [::ffff:127.0.0.1][5f527cbf][ManagementConnection] New connection established.
+[2020-06-11 20:00:21.286] [remoteagent] [info] [::ffff:127.0.0.1][b57232ec][ExtensionHostConnection] New connection established.
+[2020-06-11 20:00:24.339] [remoteagent] [info] [::ffff:127.0.0.1][b57232ec][ExtensionHostConnection] <65> Launched Extension Host Process.
+[2020-06-11 21:34:19.100] [remoteagent] [info] [::ffff:127.0.0.1][5f527cbf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-06-11 21:34:20.209] [remoteagent] [info] [::ffff:127.0.0.1][b57232ec][ExtensionHostConnection] <65> Extension Host Process exited with code: 0, signal: null.
+[2020-06-11 21:34:23.198] [remoteagent] [info] [::ffff:127.0.0.1][dfbbcf75][ManagementConnection] New connection established.
+[2020-06-11 21:34:23.205] [remoteagent] [info] [::ffff:127.0.0.1][99b72d7c][ExtensionHostConnection] New connection established.
+[2020-06-11 21:34:23.266] [remoteagent] [info] [::ffff:127.0.0.1][99b72d7c][ExtensionHostConnection] <519> Launched Extension Host Process.
+[2020-06-11 21:35:05.074] [remoteagent] [info] [::ffff:127.0.0.1][dfbbcf75][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-06-11 21:35:06.166] [remoteagent] [info] [::ffff:127.0.0.1][99b72d7c][ExtensionHostConnection] <519> Extension Host Process exited with code: 0, signal: null.
+[2020-06-11 21:35:08.925] [remoteagent] [info] [::ffff:127.0.0.1][25341a46][ManagementConnection] New connection established.
+[2020-06-11 21:35:08.926] [remoteagent] [info] [::ffff:127.0.0.1][1dd4a867][ExtensionHostConnection] New connection established.
+[2020-06-11 21:35:08.978] [remoteagent] [info] [::ffff:127.0.0.1][1dd4a867][ExtensionHostConnection] <576> Launched Extension Host Process.
