@@ -10,23 +10,30 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# 最後に置換された文字列:
+$
+
 # コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1592013166,,"q"
+:wq
+|2,0,1591980710,,"wq"
+:w
+|2,0,1591943078,,"w"
 :x
 |2,0,1591709330,,"x"
-:wq
-|2,0,1591699772,,"wq"
-:w
-|2,0,1591699675,,"w"
 :!
 |2,0,1591699665,,"!"
-:q
-|2,0,1591699658,,"q"
 
 # 検索文字列 項目の履歴 (新しいものから古いものへ):
+? @$
+|2,1,1591943038,,"@$"
 
 # 式 項目の履歴 (新しいものから古いものへ):
 
 # 入力行 項目の履歴 (新しいものから古いものへ):
+@index.html
+|2,3,1591943038,,"index.html"
 
 # デバッグ行 項目の履歴 (新しいものから古いものへ):
 
@@ -39,243 +46,252 @@
 |3,0,32,0,1,0,1591273842,"�kb"
 
 # ファイルマーク:
-'0  1  0  ~/.bash-completion
-|4,48,1,0,1591709330,"~/.bash-completion"
+'0  1  0  ~/.bash_profile
+|4,48,1,0,1592013166,"~/.bash_profile"
 '1  1  0  ~/.bash_profile
-|4,49,1,0,1591699772,"~/.bash_profile"
-'2  120  0  ~/.bashrc
-|4,50,120,0,1591699749,"~/.bashrc"
-'3  1  0  ~/.bash_profile
-|4,51,1,0,1591699684,"~/.bash_profile"
-'4  120  0  ~/.bashrc
-|4,52,120,0,1591699280,"~/.bashrc"
-'5  118  0  ~/.bashrc
-|4,53,118,0,1591699218,"~/.bashrc"
-'6  118  0  ~/.bashrc
-|4,54,118,0,1591699218,"~/.bashrc"
-'7  118  0  ~/.bashrc
-|4,55,118,0,1591699218,"~/.bashrc"
-'8  118  0  ~/.bashrc
-|4,56,118,0,1591699218,"~/.bashrc"
-'9  1  0  ~/bashrc
-|4,57,1,0,1591699126,"~/bashrc"
+|4,49,1,0,1591980710,"~/.bash_profile"
+'2  9  0  ~/hello-world/src/index.html
+|4,50,9,0,1591946224,"~/hello-world/src/index.html"
+'3  1100  0  /usr/share/bash-completion/bash_completion
+|4,51,1100,0,1591946182,"/usr/share/bash-completion/bash_completion"
+'4  1  0  ~/.bash_profile
+|4,52,1,0,1591945896,"~/.bash_profile"
+'5  1  0  ~/.bash_profile
+|4,53,1,0,1591945896,"~/.bash_profile"
+'6  1  0  /home/bash-completion
+|4,54,1,0,1591944861,"/home/bash-completion"
+'7  9  0  ~/hello-world/src/index.html/index.html
+|4,55,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+'8  1  0  ~/.bash-completion
+|4,56,1,0,1591709330,"~/.bash-completion"
+'9  1  0  ~/.bash_profile
+|4,57,1,0,1591699772,"~/.bash_profile"
 
 # ジャンプリスト (新しいものが先):
--'  1  0  ~/.bash-completion
-|4,39,1,0,1591709330,"~/.bash-completion"
 -'  1  0  ~/.bash_profile
-|4,39,1,0,1591699772,"~/.bash_profile"
+|4,39,1,0,1592013166,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
-|4,39,1,0,1591699772,"~/.bash_profile"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699749,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699749,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699749,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699749,"~/.bashrc"
+|4,39,1,0,1591980710,"~/.bash_profile"
+-'  9  0  ~/hello-world/src/index.html
+|4,39,9,0,1591946224,"~/hello-world/src/index.html"
+-'  9  0  ~/hello-world/src/index.html
+|4,39,9,0,1591946224,"~/hello-world/src/index.html"
+-'  9  0  ~/hello-world/src/index.html
+|4,39,9,0,1591946224,"~/hello-world/src/index.html"
+-'  9  0  ~/hello-world/src/index.html
+|4,39,9,0,1591946224,"~/hello-world/src/index.html"
+-'  1100  0  /usr/share/bash-completion/bash_completion
+|4,39,1100,0,1591946182,"/usr/share/bash-completion/bash_completion"
+-'  1100  0  /usr/share/bash-completion/bash_completion
+|4,39,1100,0,1591946182,"/usr/share/bash-completion/bash_completion"
+-'  1100  0  /usr/share/bash-completion/bash_completion
+|4,39,1100,0,1591946182,"/usr/share/bash-completion/bash_completion"
+-'  1100  0  /usr/share/bash-completion/bash_completion
+|4,39,1100,0,1591946182,"/usr/share/bash-completion/bash_completion"
 -'  1  0  ~/.bash_profile
-|4,39,1,0,1591699684,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1591699684,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1591699684,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1591699684,"~/.bash_profile"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  120  0  ~/.bashrc
-|4,39,120,0,1591699280,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699272,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  118  0  ~/.bashrc
-|4,39,118,0,1591699218,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  119  0  ~/.bashrc
-|4,39,119,0,1591699147,"~/.bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
--'  1  0  ~/bashrc
-|4,39,1,0,1591699126,"~/bashrc"
+|4,39,1,0,1591945896,"~/.bash_profile"
+-'  1  0  /usr/share/bash-completion/bash_completion
+|4,39,1,0,1591945039,"/usr/share/bash-completion/bash_completion"
+-'  1  0  /usr/share/bash-completion/bash_completion
+|4,39,1,0,1591945039,"/usr/share/bash-completion/bash_completion"
+-'  1  0  /usr/share/bash-completion/bash_completion
+|4,39,1,0,1591945039,"/usr/share/bash-completion/bash_completion"
+-'  1  0  /usr/share/bash-completion/bash_completion
+|4,39,1,0,1591945039,"/usr/share/bash-completion/bash_completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  1  0  /home/bash-completion
+|4,39,1,0,1591944861,"/home/bash-completion"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  9  0  ~/hello-world/src/index.html/index.html
+|4,39,9,0,1591943084,"~/hello-world/src/index.html/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
+-'  1  0  ~/hello-world/src/index.html/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html/index.html"
+-'  1  0  ~/hello-world/src/index.html
+|4,39,1,0,1591943067,"~/hello-world/src/index.html"
+-'  10  0  ~/hello-world/src/index.html
+|4,39,10,0,1591943067,"~/hello-world/src/index.html"
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.bash_profile
+	*	1592013159	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	78
+	+	1	0
+	+	2	0
+	s	1	0
+
+> /usr/share/bash-completion/bash_completion
+	*	1591946181	0
+	"	1100	0
+
+> /home/bash-completion
+	*	1591944859	0
+	"	1	0
 
 > ~/.bash-completion
 	*	1591709324	0
 	"	1	0
-
-> ~/.bash_profile
-	*	1591699771	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	78
-	+	1	0
-	s	1	0
 
 > ~/.bashrc
 	*	1591699748	0

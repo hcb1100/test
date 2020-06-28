@@ -7,6 +7,10 @@
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
         >vue-cli documentation</a
       >.
+      <!--href リンク先指定
+          target="_blank" リンクをどう開きたいか決めさせる
+          rel="noopenner" セキュリティのようなもの -->
+
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
@@ -27,6 +31,8 @@
         >
       </li>
     </ul>
+    <!--ul 順序のないリスト
+        li リストの項目-->
     <h3>Essential Links</h3>
     <ul>
       <li>

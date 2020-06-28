@@ -1,4 +1,20 @@
 {
   "useTaobaoRegistry": false,
-  "packageManager": "yarn"
+  "packageManager": "yarn",
+  "latestVersion": "4.4.6",
+  "lastChecked": 1593242309216,
+  "presets": {
+    "with_Prettier": {
+      "useConfigFiles": true,
+      "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-eslint": {
+          "config": "prettier",
+          "lintOn": [
+            "save"
+          ]
+        }
+      }
+    }
+  }
 }

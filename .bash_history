@@ -757,3 +757,223 @@ wpd
 pwd
 ll
 cd ..
+git status
+git add .
+git status
+git commit -m
+fzf
+git commit .
+cd test
+yarn serve
+vi ~/.bash_profile
+exit
+vi bash-completion
+cd ./usr/share/
+ls
+ll
+ll -a
+ls -a
+cd ..
+ll -a
+cd usr
+ls
+cd share
+ll
+ls
+cd bash-completion/
+ls
+vi bash_completion
+exit
+zsh
+exit
+cd ..
+cd hello-world
+cd hello-world/
+ll
+cd home
+cd tel
+ll
+cd hello-world
+cd src
+cd ./
+cd .,
+cd ..
+ll
+yarn serve
+ponents
+cd components
+cd src
+cd components
+cd ./
+cd ..
+cd ./
+cd components
+ll
+rm HelloWorld.vue 
+ll
+cd src/assets
+cd ../assets
+ll
+rm logo.png
+ll
+cd .
+cd ..
+cd src/components
+mkdir Clock.vue
+ll
+cd ..
+mkdir index.html
+vi index.html/
+cat index.html/
+vi index.html
+cd ..
+ll
+cd ..
+ll
+rm myweb/myweb2
+rm myweb
+ll
+rm
+rm --help
+rm -r myweb
+ll
+cd myweb/.git/
+ll
+cd objects/
+ll
+cd ..
+rm objects/
+rm -r objects/
+cd objects/
+cd 0a
+ll
+rm -r 5568b3eb72786b7d025f317905c26d9b2a59ce 
+cd..
+cd ..
+rm -r myweb
+zsh
+sudo apt install zsh
+zsh
+cd ~/.bash_profile
+cd ..
+sudo useradd -m test
+diff /home/test/.bashrc
+diff /home/test/.bashrc/home/tel/.bashrc
+diff --help
+vi ~/.bash_profile
+diff /home/test/.bashrc
+node
+cd ./test
+ls
+ll
+touch .bash_profile
+ls
+ls- a
+ls -a
+touch .bash_profile
+cd ./tel
+cd ..
+touch .bash_profile
+cd tel
+ls -a
+touch .bash_profile
+vi .bash_profile
+pwd
+cd ./
+pwd
+cd ..
+owd
+pwd
+cd ~
+pwd
+vue -v
+vue -# ~/.profile: executed by the command interpreter for login shells.
+# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
+# exists.
+# see /usr/share/doc/bash/examples/startup-files for examples.
+# the files are located in the bash-doc package.
+# the default umask is set in /etc/profile; for setting the umask
+# for ssh logins, install and configure the libpam-umask package.
+#umask 022
+# if running bash
+if [ -n "$BASH_VERSION" ]; then     if [ -f "$HOME/.bashrc" ]; then . "$HOME/.bashrc";     fi; fi
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then     PATH="$HOME/bin:$PATH"; fi
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/.local/bin" ] ; then     PATH="$HOME/.local/bin:$PATH"; fi
+vue -V
+vue -help
+vue create test
+cd test
+yarn serve
+cd test
+yarn serve
+ls
+ll
+cd ..
+ll
+cd tel/test
+ll
+yarn serve
+pwd
+cd ..
+cd..
+cd ..
+echo "# vue.text" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hcb1100/vue.text.git
+git push -u origin master
+git remote add origin https://github.com/hcb1100/vue.text.git
+cd tel
+cd ~
+pwd
+ll
+echo "# vue.text" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hcb1100/vue.text.git
+git push -u origin master
+https://github.com/hcb1100/vue.text.git
+cd test
+git remote add origin https://github.com/hcb1100/vue.text.git
+git push -u origin master
+pwd
+ll
+git status 
+git init 
+ll
+mv .git .gitorg 
+mv  .git .gi_torg 
+cd + 
+cd  - 
+ll
+cd test/  
+pwd
+git add . 
+git status 
+git --help 
+git commit -m "fisrt commit"
+
+git remote add origin https://github.com/hcb1100/vue.text.git
+git push oringin master
+git push origin master 
+cd ../ 
+mkdir work 
+cd work/ 
+git clone https://github.com/hcb1100/vue.text.git 
+ll
+cd vue.text/ 
+ll
+pwd
+cat README.md  
+yarn install 
+yarn serve 
+pwd 
+ll 
+git stauts 
+git push orgin maser 
+https://github.com/hcb1100/vue.text.git
+exit

@@ -1,0 +1,27 @@
+[2020-06-12 15:02:09.052] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-06-12 15:02:09.052] [remoteagent] [info] Extension host agent started.
+[2020-06-12 15:02:09.389] [remoteagent] [info] [::ffff:127.0.0.1][0d4a64eb][ManagementConnection] New connection established.
+[2020-06-12 15:02:09.406] [remoteagent] [info] [::ffff:127.0.0.1][900df126][ExtensionHostConnection] New connection established.
+[2020-06-12 15:02:11.284] [remoteagent] [info] [::ffff:127.0.0.1][900df126][ExtensionHostConnection] <175> Launched Extension Host Process.
+[2020-06-12 15:03:38.647] [remoteagent] [info] Installing extension: octref.vetur
+[2020-06-12 15:03:48.227] [remoteagent] [info] Downloaded extension: octref.vetur /tmp/2ce9c25f-6669-42c1-8bd9-20cf0488f278
+[2020-06-12 15:05:50.924] [remoteagent] [info] Extracted extension to /home/tel/.vscode-server/extensions/.octref.vetur-0.24.0: octref.vetur
+[2020-06-12 15:05:51.912] [remoteagent] [info] Renamed to /home/tel/.vscode-server/extensions/octref.vetur-0.24.0
+[2020-06-12 15:05:51.921] [remoteagent] [info] Installation completed. octref.vetur
+[2020-06-12 15:05:51.949] [remoteagent] [info] Extensions installed successfully: octref.vetur
+[2020-06-12 16:03:18.522] [remoteagent] [info] [::ffff:127.0.0.1][d67de13a][ManagementConnection] New connection established.
+[2020-06-12 16:03:18.526] [remoteagent] [info] [::ffff:127.0.0.1][52dd17ab][ExtensionHostConnection] New connection established.
+[2020-06-12 16:03:18.630] [remoteagent] [info] [::ffff:127.0.0.1][52dd17ab][ExtensionHostConnection] <718> Launched Extension Host Process.
+[2020-06-12 16:16:05.379] [remoteagent] [info] [::ffff:127.0.0.1][d67de13a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-06-12 16:16:06.761] [remoteagent] [info] [::ffff:127.0.0.1][52dd17ab][ExtensionHostConnection] <718> Extension Host Process exited with code: 0, signal: null.
+[2020-06-12 16:17:03.153] [remoteagent] [info] [::ffff:127.0.0.1][0d4a64eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-06-12 16:17:04.326] [remoteagent] [info] [::ffff:127.0.0.1][900df126][ExtensionHostConnection] <175> Extension Host Process exited with code: 0, signal: null.

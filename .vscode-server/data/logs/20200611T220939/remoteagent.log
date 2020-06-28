@@ -1,0 +1,22 @@
+[2020-06-11 22:09:40.804] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-06-11 22:09:40.804] [remoteagent] [info] Extension host agent started.
+[2020-06-11 22:09:41.257] [remoteagent] [info] [::ffff:127.0.0.1][3161b1c9][ManagementConnection] New connection established.
+[2020-06-11 22:09:41.261] [remoteagent] [info] [::ffff:127.0.0.1][479a2865][ExtensionHostConnection] New connection established.
+[2020-06-11 22:09:42.556] [remoteagent] [info] [::ffff:127.0.0.1][479a2865][ExtensionHostConnection] <902> Launched Extension Host Process.
+[2020-06-11 22:09:45.824] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2020-06-11 22:09:47.005] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /tmp/fc943a73-57bd-4ddb-8642-93b00559d309
+[2020-06-11 22:09:47.724] [remoteagent] [info] Extracted extension to /home/tel/.vscode-server/extensions/.ms-ceintl.vscode-language-pack-ja-1.46.3: ms-ceintl.vscode-language-pack-ja
+[2020-06-11 22:09:47.743] [remoteagent] [info] Renamed to /home/tel/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.46.3
+[2020-06-11 22:09:47.753] [remoteagent] [info] Installation completed. ms-ceintl.vscode-language-pack-ja
+[2020-06-11 22:09:47.870] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ja
+[2020-06-11 22:09:55.657] [remoteagent] [info] [::ffff:127.0.0.1][3161b1c9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-06-11 22:09:56.985] [remoteagent] [info] [::ffff:127.0.0.1][479a2865][ExtensionHostConnection] <902> Extension Host Process exited with code: 0, signal: null.

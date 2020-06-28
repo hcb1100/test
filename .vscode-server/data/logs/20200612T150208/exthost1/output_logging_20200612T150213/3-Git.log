@@ -1,0 +1,58 @@
+次の場所で Git を検索しています: git
+git から Git 2.17.1 を使用しています
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/tel
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :work/test/pwd.txt
+> git ls-files --stage -- /home/tel/work/test/pwd.txt
+> git check-ignore -v -z --stdin
+> git show :.ssh/id_rsa
+> git ls-files --stage -- /home/tel/.ssh/id_rsa
+> git cat-file -s 9e033f6ddc7de36287a0f8edf7b940809aa8a639
+> git show :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/tel/.ssh/id_rsa.pub
+> git cat-file -s 8b5479b57378bd876b3106fa88365563a875bf50
+> git check-ignore -v -z --stdin
+> git show :.ssh/known_hosts
+> git ls-files --stage -- /home/tel/.ssh/known_hosts
+> git cat-file -s 6736cb1b017255d543e10eb422d5999d264a687f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :hello-world/src/App.vue
+> git ls-files --stage -- /home/tel/hello-world/src/App.vue
+> git cat-file -s ac07ac6d560a738c410a942913274ae88453cead
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tel/hello-world/src/App.vue
+> git check-ignore -v -z --stdin
+> git show :hello-world/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/hello-world/src/components/HelloWorld.vue
+> git cat-file -s 879051a29739fdfb17ae82ed23b53fac251c2b7e
+> git show :hello-world/src/App.vue
+> git ls-files --stage -- /home/tel/hello-world/src/App.vue
+> git cat-file -s ac07ac6d560a738c410a942913274ae88453cead
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tel/hello-world/src/components/HelloWorld.vue
+> git show :hello-world/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/hello-world/src/components/HelloWorld.vue
+> git cat-file -s 879051a29739fdfb17ae82ed23b53fac251c2b7e
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tel/hello-world/src/App.vue
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :hello-world/.gitignore
+> git ls-files --stage -- /home/tel/hello-world/.gitignore
+> git cat-file -s 11f5d7142359f5ab9e3af8ed88151e17f7c74d53
+> git show :hello-world/src/App.vue
+> git ls-files --stage -- /home/tel/hello-world/src/App.vue
+> git cat-file -s ac07ac6d560a738c410a942913274ae88453cead
+> git check-ignore -v -z --stdin

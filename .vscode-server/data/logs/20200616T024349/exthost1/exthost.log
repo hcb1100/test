@@ -1,0 +1,21 @@
+[2020-06-16 02:43:55.358] [exthost] [info] extension host started
+[2020-06-16 02:43:55.496] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"extensionId":{"value":"octref.vetur","_lower":"octref.vetur"},"activationEvent":"onLanguage:vue"}
+[2020-06-16 02:43:55.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/extensions/octref.vetur-0.24.0/dist/client/vueMain
+[2020-06-16 02:43:56.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-16 02:43:56.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/debug-auto-launch/dist/extension
+[2020-06-16 02:43:56.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-16 02:43:56.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/emmet/dist/extension
+[2020-06-16 02:43:56.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-16 02:43:56.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/git/dist/main
+[2020-06-16 02:43:56.274] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-16 02:43:56.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/github-authentication/dist/extension.js
+[2020-06-16 02:43:56.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-16 02:43:56.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/merge-conflict/dist/extension
+[2020-06-16 02:43:56.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-16 02:43:56.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/microsoft-authentication/dist/extension.js
+[2020-06-16 02:43:56.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-16 02:43:56.389] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/search-result/dist/extension.js
+[2020-06-16 02:43:56.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-16 02:43:56.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/extensions/github/dist/extension.js
+[2020-06-16 02:43:57.234] [exthost] [info] eager extensions activated
+[2020-06-16 02:44:06.055] [exthost] [info] Extension 'octref.vetur' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
