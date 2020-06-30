@@ -234,3 +234,293 @@
 	at Array.map (<anonymous>)
 	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
 	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:29:38.413] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:29:38.413] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:29:46.554] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:29:46.555] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:29:49.084] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:29:49.084] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:30:51.916] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:30:51.916] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:30:58.113] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:30:58.114] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:30:59.039] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:30:59.040] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:32:56.817] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:32:56.818] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:33:03.425] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:33:03.426] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:34:54.622] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:34:54.622] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:34:57.094] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:34:57.094] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:34:58.950] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:34:58.950] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:03.269] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:03.270] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:13.723] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:13.724] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:19.045] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:19.045] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:29.858] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:29.858] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:30.595] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:30.596] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:31.277] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:31.278] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:32.214] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:32.214] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:38.709] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:38.709] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:39.609] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:39.609] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:40.539] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:40.539] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:35:59.182] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:35:59.182] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:36:06.687] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:36:06.688] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:37:18.691] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:37:18.691] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:37:30.658] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:37:30.658] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:37:54.213] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:37:54.213] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:38:01.749] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:38:01.749] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:38:02.143] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:38:02.144] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-28 17:38:03.503] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-28 17:38:03.504] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/a5d1cc28bb5da32ec67e86cc50f84c67cc690321/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70

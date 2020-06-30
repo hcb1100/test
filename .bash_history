@@ -977,3 +977,138 @@ git stauts
 git push orgin maser 
 https://github.com/hcb1100/vue.text.git
 exit
+vue create todo
+pwd
+cd ..
+vue create todo
+vue -v
+vue -V
+ll
+cd ~
+ll
+vue create todo
+pwd
+cd todo
+git remote add origin git@github.com:hcb1100/todo.git
+git init
+git remote add origin git@github.com:hcb1100/todo.git
+gti status
+git status
+git add .
+git status
+gtit commit -m "1st commit"
+git status
+git push origin master
+git push origin HEAD:master
+git branch
+git status
+git commit -m "1st commit"
+git status
+git push origin master
+pwd
+git clone git@github.com:hcb1100/todo.git
+cd git@github.com:hcb1100/todo.git
+pwd
+ll
+pwd
+cat README.md 
+yarn install
+ll
+yarn serve
+ll
+pwd
+cd ./
+cd ..
+pwd
+yarn servw
+yarn serve
+cd todo
+yarn serve
+cd ..
+pwd
+git init
+git status
+git add .
+cd todo
+git status
+git add .
+git commit -m "2nd commit"
+git status
+cd ..
+pwd
+git init
+git add README.md 
+cat README.md 
+gti 
+git remote add origin git@github.com:hcb1100/todo_practice.git
+git push -u origin master
+ll
+git commit -m "1st commit"
+ll
+git remote add origin git@github.com:hcb1100/todo_practice.git
+cd ,,
+cd ..
+pw
+pwd
+ll
+cd tel/
+pwd
+ll
+git push -u origin master
+cat init
+cat README.md 
+yarn vue create todo_practice
+ll
+vue create todo_practice
+cd todo_practice/
+yarn serve
+cat README.md 
+yarn install
+yarn serve
+ll
+cd ..
+ll
+rmdirk -m todo_practice/
+rimdir -m todo_practice/
+rmdir -m todo_practice/
+rmdir --help
+vue create todo_practice
+cd todo_practice
+yarn serve
+git clone
+git clone git@github.com:hcb1100/todo_practice.git
+git status
+git add .
+git status
+git commit -m "1st commit"
+git stasus
+git status
+vue
+git push
+git init
+git remote add origin git@github.com:hcb1100/todo_practice.git
+git push -u origin master
+cd ..
+git push -u origin master
+ll
+cd todo_practice
+git push -u origin master
+git status
+git add .
+git status
+git push -u origin master
+git commit -m "1st commite
+git commit -m "1st commit"
+git push -u origin master
+git clone git@github.com:hcb1100/todo_practice.git
+ll
+git push -u origin master
+yarn serve
+git status
+git add
+git add .
+git 
+git commit -m "2nd commit"
+git push -u origin master
+git status
+exit

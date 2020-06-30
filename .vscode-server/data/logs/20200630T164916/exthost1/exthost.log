@@ -1,0 +1,59 @@
+[2020-06-30 16:49:23.780] [exthost] [info] extension host started
+[2020-06-30 16:49:23.954] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"extensionId":{"value":"octref.vetur","_lower":"octref.vetur"},"activationEvent":"onLanguage:vue"}
+[2020-06-30 16:49:23.958] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/extensions/octref.vetur-0.24.0/dist/client/vueMain
+[2020-06-30 16:49:24.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-30 16:49:24.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/debug-auto-launch/dist/extension
+[2020-06-30 16:49:24.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-30 16:49:24.246] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/emmet/dist/extension
+[2020-06-30 16:49:24.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-30 16:49:24.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/git/dist/main
+[2020-06-30 16:49:24.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-30 16:49:24.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/github-authentication/dist/extension.js
+[2020-06-30 16:49:24.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-30 16:49:24.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/merge-conflict/dist/extension
+[2020-06-30 16:49:24.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-30 16:49:24.829] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/microsoft-authentication/dist/extension.js
+[2020-06-30 16:49:24.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-30 16:49:24.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/search-result/dist/extension.js
+[2020-06-30 16:49:25.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-30 16:49:25.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/github/dist/extension.js
+[2020-06-30 16:49:27.121] [exthost] [info] eager extensions activated
+[2020-06-30 16:49:34.382] [exthost] [info] Extension 'octref.vetur' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-06-30 18:22:00.741] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-30 18:22:00.750] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-30 18:23:57.030] [exthost] [error] [octref.vetur] provider FAILED
+[2020-06-30 18:23:57.031] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:468:420)
+	at new e (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:468:369)
+	at new e (/home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/out/vs/server/remoteExtensionHostProcess.js:455:44)
+	at asSymbolInformation (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/tel/.vscode-server/extensions/octref.vetur-0.24.0/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-06-30 18:34:55.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-06-30 18:34:55.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/extension-editing/dist/extension
+[2020-06-30 18:34:56.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-06-30 18:34:56.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tel/.vscode-server/bin/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/extensions/typescript-language-features/dist/extension
+[2020-06-30 18:34:56.171] [exthost] [warning] [Deprecation Warning] 'CodeActionProvider.provideCodeActions - return commands' is deprecated. Return 'CodeAction' instances instead.
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:43.723] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/node_modules' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:46.364] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/src/assets' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:46.364] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/src/assets' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:46.364] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/src/assets' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:46.364] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/src/assets' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-06-30 18:38:48.129] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tel/todo/src/components/HelloWorld.vue' is in submodule 'todo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

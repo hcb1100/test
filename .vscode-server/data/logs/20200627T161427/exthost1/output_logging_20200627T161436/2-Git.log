@@ -178,3 +178,10 @@ fatal: not a git repository (or any of the parent directories): .git
 > git check-ignore -v -z --stdin
 > git show :todo/src/components/HelloWorld.vue
 > git ls-files --stage -- /home/tel/todo/src/components/HelloWorld.vue
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :todo_practice/src/components/HelloWorld.vue
+> git ls-files --stage -- /home/tel/todo_practice/src/components/HelloWorld.vue
+> git cat-file -s e8f3285d825765cc9caed25e356f79f1e9ce5db3
